@@ -1,8 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=60&desc=Dev%20%7C%20Pro%20Player%20%7C%20Produtor" width="100%">
-
-  <h1>Olá, eu sou o João Vitor!</h1>
-  <p><b>Dev | Jogador Profissional | Produtor Musical </b></p>
+  <!-- Título principal limpo e direto -->
+  <h1>Olá, eu sou o João Vitor! ⚡</h1>
+  
+  <!-- Aqui entra a animação nativa digitando suas habilidades -->
+  <a href="https://github.com/JVCoding">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Dev+em+Ascens%C3%A3o+👨%E2%80%8D💻;Jogador+Profissional🏆;Produtor+Musical+🎸" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
