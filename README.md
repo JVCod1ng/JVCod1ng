@@ -54,7 +54,8 @@ No meu tempo livre, eu sou:
 
 - 🏆 **Pro Player & Dono de Comunidade:** Sou jogador profissional de **Brawlhalla**. Administrador do gigante *Coliseu de Clãs*, uma das maiores Comunidades do jogo no Brasil. Também atuo como Streamer, Narrador e Editor de conteúdo.
 - 🎸 **Músico Independente:** Sou compositor e produtor musical no projeto **The Banda**. Onde eu escrevo, produzo, faço a mixagem e lanço musicas totalmente autorais em Inglês. Gosto de misturar Indie Rock, R&B e Bedroom Pop. Fiquem de olho no meu albúm mais recente: *"A View From My Bed"*.
-*link do soundcloud: https://soundcloud.com/the-banda-prod*
+
+*link do soundcloud para quem se interessou :) : https://soundcloud.com/the-banda-prod*
 
 ---
 
