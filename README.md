@@ -4,7 +4,7 @@
   
   <!-- Aqui entra a animação nativa digitando suas habilidades -->
   <a href="https://github.com/JVCoding">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Dev+em+Ascens%C3%A3o+👨%E2%80%8D💻;Jogador+Profissional🏆;Produtor+Musical+🎸" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=60&desc=Dev%20%7C%20Pro%20Player%20%7C%20Produtor%20Musical" width="100%">
   </a>
 </div>
 
@@ -80,3 +80,6 @@ No meu tempo livre, eu sou:
 <a href="https://www.youtube.com/@Wizzin1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 <a href="https://www.twitch.tv/wizziin"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
 <a href="https://discord.gg/sYjN5r6p3n"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%">
