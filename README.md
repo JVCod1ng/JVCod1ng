@@ -10,10 +10,9 @@
 ### 👨‍💻 Sobre mim
 Sou estudante do 2º ano (3º semestre) de **Análise e Desenvolvimento de Sistemas** na FATEC Ferraz de Vasconcelos. Tenho facilidade em aprender novas tecnologias, usar a lógica pra resolver problemas e gosto de me desafiar.
 
-- 🗣️ Fluência Nível Master em Inglês pelo CNA.
+- 🗣️ Formado em Inglês na Escola de Idiomas CNA (Nível Master).
 - 🎓 Técnico em Administração concluído na ETEC (SWOT, 5W2H e processos).
 - 🌐 Formação em Redes e Hardware pela Cisco Networking Academy.
-- 🎯 Buscando minha primeira oportunidade de estágio.
 - 🥈 Medalhista Olímpico nas Olimpíadas de Matemática do Estado de SP.
 
 ---
