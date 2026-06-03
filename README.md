@@ -55,7 +55,7 @@ No meu tempo livre, eu sou:
 
 ---
 
-### 📈 Minhas Estatísticas Dev
+### 📈 Estatísticas
 
 <div align="center">
   <a href="https://github.com/JVCoding">
