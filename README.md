@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./giffffffffffffffffffffff.gif" width="100%" alt="Banner Animado">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=60&desc=Dev%20%7C%20Pro%20Player%20%7C%20Produtor" width="100%">
 
   <h1>Olá, eu sou o João Vitor!</h1>
   <p><b>Dev | Jogador Profissional | Produtor Musical </b></p>
