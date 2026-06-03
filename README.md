@@ -1,10 +1,6 @@
 <div align="center">
-  <!-- Título principal limpo e direto -->
-  <h1>Olá, eu sou o João Vitor! ⚡</h1>
-  
-  <!-- Aqui entra a animação nativa digitando suas habilidades -->
   <a href="https://github.com/JVCoding">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=60&desc=Dev%20%7C%20Pro%20Player%20%7C%20Produtor%20Musical" width="100%">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jo%C3%A3o%20Vitor&fontSize=60&desc=Dev%20%7C%20Jogador%20Profissional%20%7C%20Produtor%20Musical" width="100%">
   </a>
 </div>
 
