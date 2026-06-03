@@ -2,7 +2,7 @@
   <img src="./giffffffffffffffffffffff.gif" width="100%" alt="Banner Animado">
 
   <h1>Olá, eu sou o João Vitor!</h1>
-  <p><b>Dev | Pro Player | Produtor Musical </b></p>
+  <p><b>Dev | Jogador Profissional | Produtor Musical </b></p>
 </div>
 
 ---
