@@ -55,19 +55,6 @@ No meu tempo livre, eu sou:
 
 ---
 
-### 📈 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/JVCoding">
-    <img src="https://github-readme-stats.vercel.app/api?username=JVCoding&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
-  </a>
-  <a href="https://github.com/JVCoding">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVCoding&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" height="150"/>
-  </a>
-</div>
-
----
-
 ### 📫 Meus Links
 
 <a href="mailto:joao.v.martinswim@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
